@@ -1,4 +1,4 @@
-Timestamp for sample frequency every 15 min min,Temperature_Fahrenheit,Relative_Humidity,Temperature_Farenheit_Edge,Relative_Humidity_Edge,Temperature_Farenheit_Difference_C-E,Relative_Humidity_C-E,Alive_or_Dead,Difference In Temperature From Empty Center,Difference In Temperature From Empty Edge,Difference In Humidity From Empty Center,Difference In Humidity From Empty Edge
+Timestamp,Temperature_Fahrenheit,Relative_Humidity,Temperature_Farenheit_Edge,Relative_Humidity_Edge,Temperature_Farenheit_Difference_C-E,Relative_Humidity_C-E,Alive_or_Dead,Difference In Temperature From Empty Center,Difference In Temperature From Empty Edge,Difference In Humidity From Empty Center,Difference In Humidity From Empty Edge
 2025-11-08 12:00:00,65.12,48.0,65.12,47.5,0.0,0.5,1,0.9,-1.44,-0.4,1.8
 2025-11-08 12:15:00,64.76,49.1,64.76,48.9,0.0,0.2,1,0.9,-0.54,-0.8,1.7
 2025-11-08 12:30:00,64.04,47.5,64.22,47.0,-0.18,0.5,1,0.36,-0.36,-0.8,0.2
